@@ -23,9 +23,7 @@ _Примеры:_
 
 # РЕШЕНИЕ 
 1. Создаем реппозиторий на github.com, называем его **THE FINAL WORK**
-2. ![Блок-схема алгоритма](https://disk.yandex.ru/i/YRmRT218VPxm5Q)
-
-
+2. ![Блок-схема алгоритма](https://drive.google.com/file/d/1Mppf6mnKF4Bzz3ghJ4gCtPYvbXirx2LH/view?usp=sharing)
 
 # Код решения задачи_Вариант_1 
 string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
